@@ -18,3 +18,8 @@ Weather
 ![weather 2](https://github.com/abhisek2004/PRODIGY_WD_02/assets/117925314/44099f0d-2164-47fa-81d4-12c23e8f5c1e)
 ![weather 3](https://github.com/abhisek2004/PRODIGY_WD_02/assets/117925314/b638d547-5e09-4da1-ae15-0bc69de3afe8)
 
+
+Technology used
+JavaScript- 51.2%
+CSS- 30.3%
+HTML- 18.5%
